@@ -2,7 +2,7 @@
 "0.10" "_printf man page"
 .SH NAME
 .B _printf
-- Formatted output conversion.
+- Formatted output conversion
 .SH SYNOPSIS
 .B #include "main.h"
 
@@ -40,7 +40,7 @@ The unsigned int argument is converted to unsigned lowercase hexadecimal notatio
 .B u
 The unsigned int argument is converted to unsigned decimal notation
 .TP
-�.B o, b
+â….B o, b
 The unsigned int argument is converted to unsigned octal notation(o) or binary notation(b).
 .TP
 .B p
