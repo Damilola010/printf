@@ -2,7 +2,7 @@
 "0.10" "_printf man page"
 .SH NAME
 .B _printf
-- Formatted output conversion
+- Formatted output conversion.
 .SH SYNOPSIS
 .B #include "main.h"
 
